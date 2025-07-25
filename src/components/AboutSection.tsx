@@ -117,7 +117,7 @@ const AboutSection = () => {
                         <p className="font-medium">B.Tech in Computer Science</p>
                         <p className="text-sm text-muted-foreground">BIT(Bangalore Institute of Technology), Bangalore</p>
                         <p className="text-sm text-muted-foreground">2022 - 2026</p>
-                        <p className="text-sm text-muted-foreground">CGPA: 8.66 (Current)</p>
+                        <p className="text-sm text-muted-foreground">CGPA: 8.6 (Current)</p>
                       </div>
 
                       <div>
@@ -202,7 +202,7 @@ const AboutSection = () => {
                 <AvatarFallback>AZ</AvatarFallback>
               </Avatar>
               <div className="absolute -bottom-2 -right-2 bg-primary text-primary-foreground px-3 py-1 rounded-full text-sm font-medium">
-                8.66 GPA
+                8.6 GPA
               </div>
             </motion.div>
 
@@ -227,7 +227,7 @@ const AboutSection = () => {
                 Node
               </Badge>
               <Badge variant="outline" className="bg-primary/10">
-                DSA
+                Python
               </Badge>
               <Badge variant="outline" className="bg-primary/10">
                 Full Stack
