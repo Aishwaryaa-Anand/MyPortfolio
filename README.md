@@ -8,10 +8,6 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 [![License](https://img.shields.io/badge/MIT-green?style=for-the-badge)](LICENSE)
 
----
-
-![Portfolio Screenshot](./public/screenshot.png)
-
 ## ✨ Overview
 
 Welcome to the personal portfolio of **Aishwarya Anand**, a passionate Software Engineering undergraduate with a strong focus on **full-stack web development**. This portfolio is a reflection of my journey, skills, projects, and achievements — built with a modern tech stack and polished UI/UX.
