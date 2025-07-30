@@ -73,7 +73,7 @@ const HeroSection = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.6 }}
           >
-            Full-Stack Developer & Computer Science Student
+           Aspiring Full-Stack Developer & Computer Science Student
           </motion.p>
 
           <motion.p
@@ -196,7 +196,7 @@ const HeroSection = () => {
               </div>
 
               <div className="space-y-2 font-mono text-sm">
-                <div className="text-gray-500">{"// Software Engineer"}</div>
+                <div className="text-gray-500">{"// Aspiring Software Engineer"}</div>
                 <div>
                   <span className="text-pink-600">const</span>{" "}
                   <span className="text-blue-600">developer</span>{" "}
