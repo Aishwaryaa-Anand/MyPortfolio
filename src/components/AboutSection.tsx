@@ -159,7 +159,7 @@ const AboutSection = () => {
                           Amazon
                         </p>
                         <p className="text-sm text-muted-foreground">
-                          [Month Year] – Present
+                          Jan'26 – Present
                         </p>
                       </div>
                       <div>
