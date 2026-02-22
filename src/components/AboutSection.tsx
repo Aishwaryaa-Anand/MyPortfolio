@@ -153,17 +153,15 @@ const AboutSection = () => {
                       <Briefcase className="w-5 h-5 text-primary" /> Experience
                     </h3>
                     <div className="space-y-4">
-                      {/* <div>
-                        <p className="font-medium">
-                          Full Stack Developer Intern
+                      <div>
+                        <p className="font-medium">System Development Engineer Intern</p>
+                        <p className="text-sm text-muted-foreground">
+                          Amazon
                         </p>
                         <p className="text-sm text-muted-foreground">
-                          Twist Digital
+                          [Month Year] – Present
                         </p>
-                        <p className="text-sm text-muted-foreground">
-                          Since March 2025
-                        </p>
-                      </div> */}
+                      </div>
                       <div>
                         <p className="font-medium">Lead Graphic Designer</p>
                         <p className="text-sm text-muted-foreground">
